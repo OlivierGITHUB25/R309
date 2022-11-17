@@ -1,3 +1,6 @@
+# partie test tp
+
+#import
 import time
 import threading
 import sys
@@ -5,6 +8,7 @@ import multiprocessing
 import concurrent.futures
 import requests
 
+#lien image
 img_urls = [
     'https://pixabay.com/get/gcdbacfd56b42152d4823af278675b00aa41ce3d337867e827a36354bec3fa477def3938b2081319dd9a9b975853cc7c185592974712adb3def090cc55a46ecc8396e47e720183d7e87d35dd5e07fe26d_640.jpg',
     'https://pixabay.com/get/gebf87d632e3b539e9d99c4033c327a3cded6b4f45809d21c718bf0d88066e0451c6234f399ce1cd973e362c800df538c8711b8f2077c2164ad09da0e024497d2241b93a23babc50eb3e1c982a9a0066f_640.jpg',
