@@ -2,7 +2,7 @@ import sys
 import socket
 
 host = ""
-port = 7777
+port = 7776
 
 def Serveur():
     server_socket = socket.socket()

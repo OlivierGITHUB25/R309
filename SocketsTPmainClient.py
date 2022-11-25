@@ -1,8 +1,8 @@
 import sys
 import socket
 
-host = "192.168.197.1"
-port = 7777
+host = "192.168.56.1"
+port = 7776
 
 def Client():
     client_socket = socket.socket()
