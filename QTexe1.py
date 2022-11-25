@@ -18,7 +18,7 @@ class MainWindow(QMainWindow):
         # crée une fenêtre
 
         self.setWindowTitle("Une première fenêtre")
-        self.setGeometry(100, 100, 220, 120)
+        self.setFixedSize(220, 120)
 
         # on crée le label
 
